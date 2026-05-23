@@ -1,0 +1,5 @@
+*.tree
+*.o
+src/*.o
+eliza-train
+eliza-chat
